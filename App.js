@@ -32,15 +32,7 @@ const styles = StyleSheet.create ({
     marginTop: 30,
     padding: 90
   },
-  // container: {
-  //   flex: 1,
-  //   backgroundColor: '#fff',
-  //   alignItems: 'center',
-  //   justifyContent: 'center',
-  // },
-  // text: {
-  //   color: '#41cdf4'
-           textStyle: { color: "#41cdf4", fontSize: 20
+     textStyle: { color: "#41cdf4", fontSize: 20
   },
     profileImgContainer: {
         marginLeft: 16,
